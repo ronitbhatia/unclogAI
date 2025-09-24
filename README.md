@@ -2,6 +2,8 @@
 
 A production-ready MVP for detecting workflow bottlenecks and generating actionable recommendations using local LLM inference.
 
+Demo Link - https://huggingface.co/spaces/rb-7700/unclogAI
+
 ## 🚀 Features
 
 - **No API Keys Required**: Uses TinyLlama locally on CPU
