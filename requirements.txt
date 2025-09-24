@@ -1,0 +1,38 @@
+# OpsPilot - Workflow Bottleneck Detection
+# Core dependencies for Hugging Face Spaces deployment
+
+# Web framework - stable version
+gradio==4.20.0
+
+# Data processing (core requirements)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Graph analysis
+networkx>=3.0
+
+# Date utilities
+python-dateutil>=2.8.0
+
+# Additional utilities
+requests>=2.31.0
+
+# Optional ML dependencies (may cause conflicts)
+# transformers>=4.43.0
+# torch>=2.0.0
+# accelerate>=0.30.0
+
+# Optional workflow orchestration
+# langgraph>=0.1.0
+
+# Optional data validation
+# pydantic>=2.0.0
+
+# Optional database
+# sqlite-utils>=3.35.0
+
+# Optional visualization
+# pyvis>=0.3.2
+
+# Optional vector database
+# chromadb>=0.4.0
